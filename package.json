@@ -2,7 +2,7 @@
   "name": "Abdul-Moiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abdulmoiz-dev.github.io/Abdul-Moiz",
+  "homepage": "https://abdulmoiz-dev.github.io/moiz-portfolio",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
@@ -55,6 +55,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-vertical-timeline-component": "^3.3.6"
+    "@types/react-vertical-timeline-component": "^3.3.6",
+    "gh-pages": "^6.3.0"
   }
 }
